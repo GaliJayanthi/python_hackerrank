@@ -47,6 +47,7 @@ Sample Output
 
 '''
 
+#code
 
 def print_formatted(number):
     # your code goes here
